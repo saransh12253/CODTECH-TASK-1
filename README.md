@@ -9,6 +9,9 @@
 ## OVERVIEW OF THE PROJECT
 
 ### Project: "QUIZ GAME" 
+![Screenshot (231)](https://github.com/saransh12253/CODTECH-TASK-1/assets/174232673/f45e9220-0f5e-4c27-9bff-d7f1c3e186d6)
+![Screenshot (232)](https://github.com/saransh12253/CODTECH-TASK-1/assets/174232673/aa4f4e8a-4504-4eed-921f-eca779e47e95)
+
 
 
 ### Objective
