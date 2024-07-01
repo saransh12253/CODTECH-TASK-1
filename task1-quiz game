@@ -13,7 +13,7 @@ int main() {
     char answer;
     char correctAnswers[] = {'B', 'A', 'C', 'D', 'B'};
     
-    // Define questions and options
+   
     char questions[][100] = {
         "Who won the ICC T20 Cricket World Cup 2024?",
         "Which country is the capital of Italy?",
